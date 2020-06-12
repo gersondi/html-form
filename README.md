@@ -1,13 +1,13 @@
 # html-form
 A simple  feedback form using html which asks for inputs like name, phone number.
 html tags used
-<html><\html>
+<html> 
 <body>
 <div>
 <img>
- <form>
-   <br>
-   <input>
-   <label>
-     <button>
+<form>
+<br>
+<input>
+<label>
+<button>
      
