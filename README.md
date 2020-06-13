@@ -1,8 +1,5 @@
 # html-form
-A simple  feedback form using html which asks for inputs like name, phone number.
-
-
-html tags used
+A simple  feedback form using html which asks for inputs like name, phone number. html tags used
 <html> 
 <body>
 <div>
