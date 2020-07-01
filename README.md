@@ -13,6 +13,5 @@ A simple  feedback form using html which asks for inputs like name, phone number
 <href>
 <a>
 ```
-    non code
 ![myWebsite](https://github.com/gersondi/html-form/blob/master/myWebsite.png)
      
