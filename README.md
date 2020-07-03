@@ -12,6 +12,7 @@ A simple  feedback form using html which asks for inputs like name, phone number
 <button>
 <href>
 <a>
+<img>
 ```
 ![myWebsite](https://github.com/gersondi/html-form/blob/master/myWebsite.png)
      
